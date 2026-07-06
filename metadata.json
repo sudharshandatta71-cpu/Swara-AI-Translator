@@ -1,0 +1,8 @@
+{
+  "name": "Swara AI Translator",
+  "description": "An AI-powered voice translator focusing on Indian languages. Record speech in one language and it automatically transcribes, translates, and speaks the result in your chosen language.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
